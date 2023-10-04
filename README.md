@@ -7,8 +7,10 @@ TO DO
 - Configurar en el servidor web Apache un virtual host denominado www.diplo.test
 - Mediante un navegador web ingresar al siguiente enlace: www.diplo.test
 ## Pruebas del servicio, con ejemplos de respuesta del servicio.
-Una vez que ingrese al enlace proporcionado, se mostrará la siguiente página: https://photos.app.goo.gl/xVKoSiVtxoThbrMo9
+Una vez que ingrese al enlace proporcionado, se mostrará la siguiente página:
+
 <img src="firstrun.jpg" width="300" />
+
 El contenido de esta aplicación irá cambiando a lo largo del diplomado para incorporar lo aprendido.
 ## Referencias al proyecto
 A este momento el repositorio cuenta con el código necesario para ejecutar un proyecto base de Laravel, sin embargo, una vez aprendido los contenidos del Modulo III. Contenedores (en curso), se utilizarán las siguientes imágenes:
