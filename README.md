@@ -8,7 +8,7 @@ TO DO
 - Mediante un navegador web ingresar al siguiente enlace: www.diplo.test
 ## Pruebas del servicio, con ejemplos de respuesta del servicio.
 Una vez que ingrese al enlace proporcionado, se mostrará la siguiente página: https://photos.app.goo.gl/xVKoSiVtxoThbrMo9
-<img src="[https://photos.app.goo.gl/xVKoSiVtxoThbrMo9](https://github.com/janckos/diplo/blob/98403e823d087d8847e774f991177fd2661c42e2/firstrun.jpg)" width="300" />
+<img src="https://github.com/janckos/diplo/blob/98403e823d087d8847e774f991177fd2661c42e2/firstrun.jpg" width="300" />
 El contenido de esta aplicación irá cambiando a lo largo del diplomado para incorporar lo aprendido.
 ## Referencias al proyecto
 A este momento el repositorio cuenta con el código necesario para ejecutar un proyecto base de Laravel, sin embargo, una vez aprendido los contenidos del Modulo III. Contenedores (en curso), se utilizarán las siguientes imágenes:
