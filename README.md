@@ -9,7 +9,7 @@ TO DO
 ## Pruebas del servicio, con ejemplos de respuesta del servicio.
 Una vez que ingrese al enlace proporcionado, se mostrará la siguiente página:
 
-<img src="firstrun.jpg" width="300" />
+<img src="firstrun.jpg" />
 
 El contenido de esta aplicación irá cambiando a lo largo del diplomado para incorporar lo aprendido.
 ## Referencias al proyecto
